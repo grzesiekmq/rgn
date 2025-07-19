@@ -43,6 +43,12 @@ Contribution & Development
 
 This project is developed solo. Any help, feedback, or contributions are welcome.
 Feel free to open issues or pull requests in the repository.
+
+---
+
+*README assisted by ChatGPT.  
+The project code and design were created solely by the author without AI assistance.*
+
 # Donation
 If this project help you reduce time to develop and you like this idea, you can give me a beer as a thank you :)
 
